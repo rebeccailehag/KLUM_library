@@ -12,12 +12,14 @@ If you use the dataset, please cite:
 	title={KLUM: An Urban VNIR and SWIR Spectral Library Consisting of Building Materials}
 	author={Ilehag, Rebecca and Schenk, Andreas and Huang, Yilin and Hinz, Stefan}
 	journal={Remote Sensing}
-	volume={}
-	number={}
-	pages={}
+	volume={11}
+	number={18}
+	pages={2149}
 	year={2019}
 	}
-Link to paper here once it's published:
+	
+Link to paper:
+https://doi.org/10.3390/rs11182149
 
 ## Description
 The KLUM spectral library was acquired during the summer of 2018 in Karlsruhe, Germany. It contains 181 urban material samples that consists of 12 materials and 33 subclasses. 
