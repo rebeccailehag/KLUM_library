@@ -9,12 +9,12 @@ Contact:
 If you use the dataset, please cite:
 
 	@article{ilehag2019KLUM
-	title={KLUM: An Urban VNIR and SWIR Spectral Library Consisting of Building Materials}
-	author={Ilehag, Rebecca and Schenk, Andreas and Huang, Yilin and Hinz, Stefan}
-	journal={Remote Sensing}
-	volume={11}
-	number={18}
-	pages={2149}
+	title={{KLUM: An Urban VNIR and SWIR Spectral Library Consisting of Building Materials}},
+	author={Ilehag, Rebecca and Schenk, Andreas and Huang, Yilin and Hinz, Stefan},
+	journal={Remote Sensing},
+	volume={11},
+	number={18},
+	pages={2149},
 	year={2019}
 	}
 	
