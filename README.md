@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/208208313.svg)](https://zenodo.org/badge/latestdoi/208208313)
+
 # KLUM: Karlsruhe Library of Urban Materials
 This repository contains an urban material spectral library that contains 181 material samples and consists of 12 materials and 33 subclasses.
 
